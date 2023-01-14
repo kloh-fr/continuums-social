@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Continuum(s) Social
  * Description: Enrichissement pour le partage social et le référencement
- * Version: 2014.04.24
+ * Version: 2022.01.14
  * Text Domain: continuums-social
  * @author Luc Poupard
  * @link http://www.kloh.ch
@@ -23,7 +23,6 @@
     -- Balises méta
   == Liens de partage
 */
-
 
 /* == @section Traduction ==================== */
 /**
@@ -138,6 +137,8 @@ add_filter( 'language_attributes', 'continuums_opengraph_html' );
 
 /* -- @subsection Balises méta -------------------- */
 function continuums_opengraph() {
+  global $post;
+
   /* -- @subsection og:type -------------------- */
   if ( is_single() ) {
     $continuums_opengraph = '<meta property="og:type" content="article" />';
@@ -228,6 +229,8 @@ function continuums_opengraph() {
 
 /* -- @subsection Balises méta -------------------- */
 function continuums_twittercards() {
+  global $post;
+  
   /* -- @subsection twitter:card -------------------- */
   $continuums_twittercards = '<meta name="twitter:card" content="summary_large_image">';
 
