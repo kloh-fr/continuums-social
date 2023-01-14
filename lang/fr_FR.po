@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Continuums Social\n"
+"POT-Creation-Date: 2014-04-15 15:55+0100\n"
+"PO-Revision-Date: 2014-04-24 11:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: G:\\02_sites\\03_ma3yt\\continuums\\wp-content\\plugins"
+"\\continuums-social\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: G:\\02_sites\\03_ma3yt\\continuums\\wp-content"
+"\\plugins\\continuums-social\n"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:55
+msgid "Blog"
+msgstr "Blog"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:80
+msgid "Vidéos"
+msgstr "Vidéos"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:81
+msgid "Vidéo"
+msgstr "Vidéo"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:99
+msgid "Sons"
+msgstr "Sons"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:100
+msgid "Son"
+msgstr "Son"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:118
+msgid "Partenaires"
+msgstr "Partenaires"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:119
+msgid "Partenaire"
+msgstr "Partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:231
+msgid "Français"
+msgstr "Français"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:244
+msgid "No video playback capabilities"
+msgstr "Votre navigateur ne prend pas en charge les vidéos"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:355
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:357
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:359
+msgid "Article rédigé par"
+msgstr "Article rédigé par"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:355
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:357
+msgid "dans"
+msgstr "dans"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:355
+msgid "Mots-clés&nbsp;:"
+msgstr "Mots-clés&nbsp;:"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:364
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:366
+msgid "Publié le"
+msgstr "Publié le"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:364
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:366
+msgid "j F Y"
+msgstr "j F Y"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:364
+msgid "modifié le"
+msgstr "modifié le"
+
+#~ msgid "Entry written by"
+#~ msgstr "Article rédigé par"
+
+#~ msgid "in"
+#~ msgstr "dans"
+
+#~ msgid "Tags:"
+#~ msgstr "Mots-clés :"
+
+#~ msgid "Published on"
+#~ msgstr "Publié le"
+
+#~ msgid "Last modified on"
+#~ msgstr "Modifié le"
